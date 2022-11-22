@@ -5,3 +5,7 @@ O Git bash é um terminal extendido para otimizar o uso do Git.
 
 $ git add. ou 
 $ git add -A
+
+$ git commit -m "inclusão das anotações do cruso de Gti/GitHub"
+
+$ git push origin main
